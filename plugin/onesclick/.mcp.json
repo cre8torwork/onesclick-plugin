@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "onesclick": {
+      "type": "http",
+      "url": "https://mcp.ones-click.com/mcp"
+    }
+  }
+}

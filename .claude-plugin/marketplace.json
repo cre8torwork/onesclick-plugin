@@ -1,0 +1,13 @@
+{
+  "name": "onesclick",
+  "owner": {
+    "name": "OnesClick"
+  },
+  "plugins": [
+    {
+      "name": "onesclick",
+      "source": "./plugin/onesclick"
+    }
+  ],
+  "description": "The OnesClick marketing team for Claude."
+}
